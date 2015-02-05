@@ -30,8 +30,11 @@ modules.builtin
 *.lzma
 *.xz
 *.lzo
+*.lz4
 *.patch
 *.gcno
+*.reg
+*.orig
 
 #
 # Top-level generic files
